@@ -1,0 +1,60 @@
+!!!COM: Anónimo
+!!!CDT: 1960
+!!!OPR: Misión M63
+!!!OTL: A la mar que te vayas (M63-165)
+!!!SCA: Fondo de Música Tradicional (IMF/CSIC)
+!!!voices: 1
+!!!AGN: Canción de cuna
+**kern
+*staff1
+*clefG2
+*k[]
+*E:
+*M3/4
+=0
+g#16
+a16
+b12
+cc12
+b12
+=1
+a8
+b16
+a16
+g#8.
+e16
+a8
+g8
+=2
+b8
+g#4
+e16
+e16
+f12
+gn12
+f12
+=3
+g16
+f16
+[e8
+e8.]
+e16
+a8
+a8
+=4
+*M2/4
+g#8
+e4.
+=5
+gn16
+f16
+e4.
+=6
+g16
+f16
+[e4.
+=7
+e8]
+r4.
+==
+*-

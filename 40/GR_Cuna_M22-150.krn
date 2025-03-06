@@ -1,0 +1,54 @@
+!!!COM: Anónimo
+!!!CDT: 1946
+!!!OPR: Misión M22
+!!!OTL: Duérmete, niño mío (M22-150)
+!!!SCA: Fondo de Música Tradicional (IMF/CSIC)
+!!!voices: 1
+!!!AGN: Canción de cuna
+**kern
+*staff1
+*clefG2
+*k[b-e-]
+*D:
+*M3/2
+=1
+r8
+f#8
+g8
+a8
+b-8
+a8
+=2
+cc8.
+b-16
+a4.
+g8
+=3
+f#4.
+d8
+g8
+f#8
+=4
+a8
+a4.
+=5
+r8
+f#8
+g8
+a8
+b-8
+a8
+=6
+b-8
+a8
+g4.
+f#8
+=7
+a8
+b-8
+g8
+f#4.
+=8
+d2.
+==
+*-

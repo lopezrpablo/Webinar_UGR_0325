@@ -1,0 +1,61 @@
+!!!COM: Anónimo
+!!!CDT: 1960
+!!!OPR: Misión M63
+!!!OTL: Duérmete, mi vida (M63-095)
+!!!SCA: Fondo de Música Tradicional (IMF/CSIC)
+!!!voices: 1
+!!!AGN: Canción de cuna
+**kern
+*staff1
+*clefG2
+*k[]
+*E:
+*M2/4
+=1
+e8
+e8
+g#8
+a8
+=2
+*M3/4
+b4
+b2
+=3
+*M2/4
+b8
+cc8
+dd8
+cc8
+=4
+cc4
+[b4
+=5
+b4]
+b8
+cc8
+=6
+b8
+a8
+g16
+f#16
+=7
+a8
+g16
+fn16
+[e4
+=8
+e8]
+f8
+g8
+a8
+=9
+g16
+a16
+g16
+f16
+[e4
+=10
+e4]
+r4
+==
+*-

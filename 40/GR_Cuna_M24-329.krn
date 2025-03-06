@@ -1,0 +1,67 @@
+!!!COM: Anónimo
+!!!CDT: 1945
+!!!OPR: Misión M24
+!!!OTL: El que está en la puerta (M24-332)
+!!!SCA: Fondo de Música Tradicional (IMF/CSIC)
+!!!voices: 1
+!!!AGN: Canción de cuna
+**kern
+*staff1
+*clefG2
+*k[]
+*E:
+*M3/4
+=1
+r8
+e8
+e8
+e8
+g#8
+a8
+=2
+b8
+a16
+b16
+a16
+[g#2
+=3
+g#8]
+a8
+b8
+c8
+[b4
+=4
+b4]
+a8
+b16
+a16
+g4
+=5
+e2.
+=6
+r8
+a8
+a8
+a8
+a8
+a8
+=7
+g4
+f4
+[e4
+=8
+e8]
+f8
+g8
+a8
+g4
+=9
+f4
+e4
+=10
+e2
+=11
+e4
+r4
+==
+*-

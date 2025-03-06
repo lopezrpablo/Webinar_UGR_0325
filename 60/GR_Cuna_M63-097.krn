@@ -1,0 +1,48 @@
+!!!COM: Anónimo
+!!!CDT: 1960
+!!!OPR: Misión M63
+!!!OTL: Mi niño duerme (M63-097)
+!!!SCA: Fondo de Música Tradicional (IMF/CSIC)
+!!!voices: 1
+!!!AGN: Canción de cuna
+**kern
+*staff1
+*clefG2
+*k[]
+*E:
+*M2/4
+=1
+r8
+g#8
+a8
+b8
+=2
+cc4
+[b4
+=3
+*M3/4
+b8]
+b8
+dd8
+cc8
+a16
+b16
+=4
+cc4
+b4
+b8
+cc8
+=5
+b8
+a16
+g16
+f#4
+a8
+a8
+=6
+g#8.
+f16
+e4.
+r8
+==
+*-

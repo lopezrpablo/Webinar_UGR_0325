@@ -1,0 +1,54 @@
+!!!COM: Anónimo
+!!!CDT: 1960
+!!!OPR: Misión M63
+!!!OTL: Las tres cautivas (M63-154)
+!!!SCA: Fondo de Música Tradicional (IMF/CSIC)
+!!!voices: 1
+!!!AGN: Canción de cuna
+**kern
+*staff1
+*clefG2
+*k[]
+*E:
+*M3/4
+=1
+g8.
+g16
+cc4
+e4
+=2
+g4
+f4.
+r8
+=3
+f8.
+g16
+a4
+d4
+=4
+f4
+e4.
+r8
+=5
+e8
+e8
+e8
+e8
+e4
+=6
+*M2/4
+f4
+r4
+=7
+*M3/4
+d8
+d8
+d8
+d8
+d4
+=8
+*M2/4
+e4.
+r8
+==
+*-

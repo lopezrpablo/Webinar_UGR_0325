@@ -1,0 +1,73 @@
+!!!COM: Anónimo
+!!!CDT: 1945
+!!!OPR: Misión M24
+!!!OTL: Duérmete niño mío (M24-329)
+!!!SCA: Fondo de Música Tradicional (IMF/CSIC)
+!!!voices: 1
+!!!AGN: Canción de cuna
+**kern
+*staff1
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=1
+cc8
+cc8
+dd8
+cc8
+=2
+a8
+f4.
+=3
+a8
+a8
+cc8
+b-8
+=4
+g8
+f4.
+=5
+cc8
+cc8
+dd8
+cc8
+=6
+a8
+f4.
+=7
+a8
+a8
+cc8
+b-8
+=8
+g8
+[f4.
+=9
+f4]
+g16
+g16
+g16
+g16
+=10
+c8
+c8
+d8
+e8
+=11
+f4
+g16
+g16
+g16
+g16
+=12
+c8
+c8
+d8
+e8
+=13
+[f2
+=14
+f4]
+==
+*-

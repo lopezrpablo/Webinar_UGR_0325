@@ -1,0 +1,58 @@
+!!!COM: Anónimo
+!!!CDT: 1946
+!!!OPR: Misión M22
+!!!OTL: Quítate de esa esquina (M22-018)
+!!!SCA: Fondo de Música Tradicional (IMF/CSIC)
+!!!voices: 1
+!!!AGN: Canción de cuna
+**kern
+*staff1
+*clefG2
+*k[b-]
+*D:
+*M2/4
+=1
+a12
+a12
+b-12
+a8
+g8
+=2
+a12
+a12
+g12
+f8
+e8
+=3
+*M3/4
+f8.
+e16
+[d4
+d8]
+r8
+=4
+*M2/4
+a12
+a12
+b-12
+a8
+g8
+=5
+a8
+a8
+g8
+f8
+e8
+=6
+f8.
+e16
+d8
+r16
+d16
+d8
+d8
+=7
+d8
+r4.
+==
+*-

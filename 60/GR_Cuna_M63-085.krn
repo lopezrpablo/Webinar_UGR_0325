@@ -1,0 +1,61 @@
+!!!COM: Anónimo
+!!!CDT: 1960
+!!!OPR: Misión M63
+!!!OTL: Si mi niño se durmiera (M63-085)
+!!!SCA: Fondo de Música Tradicional (IMF/CSIC)
+!!!voices: 1
+!!!AGN: Canción de cuna
+**kern
+*staff1
+*clefG2
+*k[]
+*E:
+*M3/4
+=1
+e8
+e8
+e8
+e8
+e8
+e8
+=2
+g#8.
+a16
+b2
+=3
+cc8
+ee8
+ee8
+ee8
+dd8
+cc#8
+=4
+dd8.
+ccn16
+b4.
+r8
+=5
+g#8
+a8
+b8
+cc8
+cc8
+a8
+=6
+b8.
+a16
+g4.
+r8
+=7
+f#8
+g8
+a8
+a8
+a8
+a8
+=8
+g8.
+f16
+e2
+==
+*-
